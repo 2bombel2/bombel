@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hubixix
+- 👋 Hi, I’m @bombel
 - 👀 I’m interested in making fun projects with amiazing people
 - 🌱 I’m currently learning c++, java, 
 - 💞️ I’m looking to collaborate on fun project ideas
